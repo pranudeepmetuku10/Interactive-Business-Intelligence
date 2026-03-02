@@ -1,0 +1,24 @@
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web Interface
+gradio==3.50.2
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Excel Support
+openpyxl>=3.1.0
+xlrd>=2.0.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Chart Export (for saving Plotly charts as PNG)
+kaleido>=0.2.1
+
+# Table formatting
+tabulate>=0.9.0
